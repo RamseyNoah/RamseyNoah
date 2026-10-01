@@ -15,16 +15,11 @@ acquired by IBM in August 2026.
 **Music** : B.M., Berklee College of Music. Producing and songwriting
 since well before any of the above.
 
-## What I'm building
-
-A melody model trained on a vocal corpus built from my own catalog; 
-every take recorded, owned, collected, and labeled by me. No licensing
-ambiguity, and full control over what goes into the training set.
-
-Status, plainly: the corpus and its pipeline are built. The model is in
-implementation.
-
 ## Public work
+
+**[adaptive-readout](https://ramseynoah.github.io/adaptive-readout/)** -
+toy model of fixed-window vs. adaptive fluorescence readout in
+neutral-atom arrays ([code](https://github.com/RamseyNoah/adaptive-readout)).
 
 **[prosody-melody](https://github.com/RamseyNoah/prosody-melody)** - 
 matching the intonation and nuance of Japanese lyrics to melody.
@@ -35,6 +30,15 @@ playing styles.
 
 Most of the music-ML work lives in private repos. Happy to walk through
 any of it.
+
+## What I'm building
+
+A melody model trained on a vocal corpus built from my own catalog; 
+every take recorded, owned, collected, and labeled by me. No licensing
+ambiguity, and full control over what goes into the training set.
+
+Status, plainly: the corpus and its pipeline are built. The model is in
+implementation.
 
 ## Elsewhere
 
